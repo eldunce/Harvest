@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3923892576
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: something
+      Dependencies:
+        Dependency_0: stilt_right
+        Dependency_1: twirly_stilt
+    Info_1:
+      Name: nothing
+      Dependencies: {}
+    Info_2:
+      Name: everything
+      Dependencies:
+        Dependency_0: stilt_left
+        Dependency_1: stilt_right
+        Dependency_2: twirly_stilt
+    Info_3:
+      Name: stilt_left
+      Dependencies: {}
+    Info_4:
+      Name: stilt_right
+      Dependencies: {}
+    Info_5:
+      Name: twirly_stilt
+      Dependencies: {}

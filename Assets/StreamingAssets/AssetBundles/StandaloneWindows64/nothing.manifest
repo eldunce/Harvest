@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3615474916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 038ca783f1dc0ea6299f0e5deb66bdce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Tests/Scenes/Nothing.unity
+Dependencies: []

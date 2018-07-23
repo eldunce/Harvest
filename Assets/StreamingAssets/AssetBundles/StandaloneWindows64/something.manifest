@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2711275794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83e427923dcdbdba29d694df30f09151
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Tests/Scenes/Something.unity
+Dependencies:
+- D:/Projects/Harvest/Assets/StreamingAssets/AssetBundles/StandaloneWindows64/stilt_right
+- D:/Projects/Harvest/Assets/StreamingAssets/AssetBundles/StandaloneWindows64/twirly_stilt
